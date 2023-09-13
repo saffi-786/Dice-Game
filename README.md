@@ -1,1 +1,1 @@
-# Dice-Game
+<a href="https://siddhant2002dicegame.netlify.app/">Click here to redirect to dice game page</a>
